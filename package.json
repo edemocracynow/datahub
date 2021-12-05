@@ -1,0 +1,26 @@
+{
+  "name": "datahub",
+  "version": "1.0.0",
+  "description": "datahub message broker for edemocracy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edemocracynow/datahub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edemocracynow/datahub/issues"
+  },
+  "homepage": "https://github.com/edemocracynow/datahub#readme",
+  "dependencies": {
+    "@team-supercharge/nest-amqp": "^3.0.3",
+    "amqplib": "^0.8.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.13.2",
+    "openpgp": "4.10.10"
+  }
+}

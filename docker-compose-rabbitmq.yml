@@ -1,7 +1,9 @@
 version: "3.2"
 services:
   rabbitmq:
-    image: rabbitmq:3.9.7-management
+    build:
+      context: .
+      dockerfile: docker/rabbitmq/Dockerfile
     container_name: rabbitmq
     ports:
         - 5672:5672

@@ -22,3 +22,8 @@ Rabbitmq is a messqgge broker in charge to dispatch the messages. Privacy should
 3. client decrypt the message and answer via crypted message
 4. PA receive answer decrypt and do stuff with it
 
+## todo
+
+https://jaygould.co.uk/2019-01-21-decrypting-gpg-file-node-programatically/
+https://circleci.com/blog/getting-started-with-nestjs-and-automatic-testing/
+https://github.com/team-supercharge/nest-amqp/
