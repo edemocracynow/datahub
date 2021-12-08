@@ -4,13 +4,35 @@ import { QueueModule } from '@team-supercharge/nest-amqp';
 import { AppController } from './app.controller';
 import { UserModule } from '../modules/user/user.module';
 import { AdminModule } from '../modules/admin/admin.module';
+import { TypeOrmModule } from '@nestjs/typeorm';
+import { Key } from './entities/key.entity';
 
 const rabbit = process.env.RABBIT_HOST || "localhost:5672";
 const user = process.env.RABBIT_USER || "bureaudevote";
 const pass = process.env.RABBIT_PASSWORD || "bureaudevote";
 
+const DB_PORT = process.env.DB_PORT || 5432;
+const DB_HOST = process.env.DB_HOST || "localhost";
+const DB_USER = process.env.DB_USER || "bureaudevote";
+const DB_PASSWORD = process.env.DB_PASSWORD || "bureaudevote";
+const DB_NAME = process.env.DB_NAME || "admin";
+
 @Module({
-  imports: [QueueModule.forRoot(`amqp://${user}:${pass}@${rabbit}`), UserModule, AdminModule],
+  imports: [
+	QueueModule.forRoot(`amqp://${user}:${pass}@${rabbit}`), 
+	UserModule, 
+	AdminModule,
+	TypeOrmModule.forRoot({
+      type: `postgres`,
+      host: `${DB_HOST}`,
+      port: parseInt(`${DB_PORT}`),
+      username: `${DB_USER}`,
+      password: `${DB_PASSWORD}`,
+      database: `${DB_NAME}`,
+      entities: [Key],
+      synchronize: true,
+    })
+	],
   controllers: [AppController],
 })
 export class AppModule {}
