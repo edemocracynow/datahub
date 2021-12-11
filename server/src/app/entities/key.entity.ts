@@ -6,7 +6,10 @@ export class Key {
   id: number;
 
   @Column()
-  pubKey: string;
+  pub_key: string;
+
+  @Column()
+  private_key: string;
 
   @Column()
   name: string;
@@ -15,5 +18,5 @@ export class Key {
   email: string;
 
   @Column({ default: true })
-  isActive: boolean;
+  is_active: boolean;
 }

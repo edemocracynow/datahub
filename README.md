@@ -16,7 +16,18 @@ Rabbitmq is a messqgge broker in charge to dispatch the messages. Privacy should
  
 ## workflow
 
-0. client and PA share public key on keyserver
+0. client and PA share public key in postgres database
+
+``` 
+curl --location --request POST 'http://localhost:4444/admin' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "name" : "Mairie de Vallauris",
+    "email" : "mairievallauris@qwant.com",
+    "passphrase" : "pass"
+}'
+```
+
 1. client manifest interest to consultation sharing his pub key with PA
 2. PA encode a message and send it to client sharing his pub key
 3. client decrypt the message and answer via crypted message

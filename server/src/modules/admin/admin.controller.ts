@@ -1,8 +1,9 @@
-import { Body, Controller, Get } from '@nestjs/common';
+import { Body, Controller, Post, Get, Query } from '@nestjs/common';
 import { QueueService } from '@team-supercharge/nest-amqp';
 import { AdminQueue } from './admin.queue';
-import { getConnection } from "typeorm";
+import { getConnection, getRepository } from "typeorm";
 import { Key } from 'src/app/entities/key.entity';
+import { AdminDto } from './admin.dto';
 
 const openpgp = require("openpgp");
 
@@ -12,34 +13,45 @@ export class AdminController {
 
 	constructor(private readonly queueService: QueueService) { }
 
-	@Get()
-	public async rotateKey(): Promise<string> {
-		const pubK = await this.generate()
-		await this.queueService.send(AdminQueue.ROTATE_KEY, pubK);
-		console.log(pubK);
+	@Post()
+	public async rotateKey(@Body() body: AdminDto): Promise<string> {
+		console.log(body)
+		const keys = await this.generate(body)
+		await this.queueService.send(AdminQueue.ROTATE_KEY, keys[1]);
 		await getConnection()
 			.createQueryBuilder()
 			.insert()
 			.into(Key)
 			.values({
-				name: "PA-antibes",
-				email: "PA-antibes@qwqnt.com",
-				isActive: true,
-				pubKey: pubK
+				name: body.name,
+				email: body.email,
+				is_active: true,
+				pub_key: keys[1],
+				private_key: keys[0]
 			})
 			.execute();
-		return pubK;
+		return "OK";
+	}
+	
+	@Get()
+	public async getKey(@Query() query): Promise<Key[]> {
+		console.log(query)
+		const keys = await getRepository(Key)
+    	.createQueryBuilder("key")
+        .where("key.name = :name", query)
+    	.getMany();
+		return keys;
 	}
 
 
 
-	private async generate() {
+	private async generate(admin) {
 		const { privateKeyArmored, publicKeyArmored } = await openpgp.generateKey({
-			userIds: [{ name: "person", email: "person@somebody.com" }],
+			userIds: [{ name: admin["name"], email: admin["email"] }],
 			curve: "ed25519",
-			passphrase: "pass",
+			passphrase: admin["passphrase"],
 		});
 		
-		return publicKeyArmored;
+		return [privateKeyArmored,publicKeyArmored ];
 	}
 }

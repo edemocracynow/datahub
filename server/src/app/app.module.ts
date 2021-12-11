@@ -6,6 +6,9 @@ import { UserModule } from '../modules/user/user.module';
 import { AdminModule } from '../modules/admin/admin.module';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Key } from './entities/key.entity';
+import { Consultation } from './entities/consultation.entity';
+import { Message } from './entities/message.entity';
+import { PublicAdministration } from './entities/pa.entity';
 
 const rabbit = process.env.RABBIT_HOST || "localhost:5672";
 const user = process.env.RABBIT_USER || "bureaudevote";
@@ -29,7 +32,7 @@ const DB_NAME = process.env.DB_NAME || "admin";
       username: `${DB_USER}`,
       password: `${DB_PASSWORD}`,
       database: `${DB_NAME}`,
-      entities: [Key],
+      entities: [Key,PublicAdministration,Message,Consultation],
       synchronize: true,
     })
 	],

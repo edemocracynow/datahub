@@ -4,7 +4,7 @@ import { QueueService } from '@team-supercharge/nest-amqp';
 import { UserQueue } from './user.queue';
 import { UserDto } from './user.dto';
 
-@Controller('admin')
+@Controller('user')
 export class UserController {
   constructor(private readonly queueService: QueueService) {}
 
