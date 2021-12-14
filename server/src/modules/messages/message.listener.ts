@@ -10,14 +10,12 @@ import { Consultation } from 'src/app/entities/consultation.entity';
 export class MessageListener {
 	@Listen(MessageQueue.ADD_MESSAGE, { type: MessageDto, skipValidation: true })
 	public async listenForMessage(message: MessageDto): Promise<void> {
-		
-		var someEncodedString = Buffer.from(JSON.stringify(message), 'utf-8').toString();
-		
-		let data = JSON.parse(someEncodedString)
+		let data = JSON.parse(JSON.stringify(message))
 		let buffer = Buffer.from(data['content']['data']);
 		logger.log(`content: ${buffer}`);
 		var str = buffer.toString('utf8')
 		logger.log(`str: ${str}`);
+		message = new MessageDto(JSON.parse(str))
 		
 		const consultations = await getRepository(Consultation)
 			.createQueryBuilder("c")
