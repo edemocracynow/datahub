@@ -4,6 +4,8 @@ import { QueueModule } from '@team-supercharge/nest-amqp';
 import { AppController } from './app.controller';
 import { UserModule } from '../modules/user/user.module';
 import { AdminModule } from '../modules/admin/admin.module';
+import { MessageModule } from '../modules/messages/message.module';
+
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Key } from './entities/key.entity';
 import { Consultation } from './entities/consultation.entity';
@@ -25,6 +27,7 @@ const DB_NAME = process.env.DB_NAME || "admin";
 	QueueModule.forRoot(`amqp://${user}:${pass}@${rabbit}`), 
 	UserModule, 
 	AdminModule,
+	MessageModule,
 	TypeOrmModule.forRoot({
       type: `postgres`,
       host: `${DB_HOST}`,

@@ -1,4 +1,6 @@
 import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
+import { Exclude } from 'class-transformer';
+
 
 @Entity()
 export class Key {
@@ -7,7 +9,8 @@ export class Key {
 
   @Column()
   pub_key: string;
-
+  
+  @Exclude({ toPlainOnly: true })
   @Column()
   private_key: string;
 

@@ -17,7 +17,6 @@ export class AdminController {
 	public async rotateKey(@Body() body: AdminDto): Promise<string> {
 		console.log(body)
 		const keys = await this.generate(body)
-		await this.queueService.send(AdminQueue.ROTATE_KEY, keys[1]);
 		await getConnection()
 			.createQueryBuilder()
 			.insert()

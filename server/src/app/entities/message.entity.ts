@@ -1,5 +1,5 @@
 import { Entity, Column, PrimaryGeneratedColumn, ManyToMany, JoinTable } from 'typeorm';
-import { Key } from './key.entity';
+import { Consultation } from './consultation.entity';
 
 @Entity()
 export class Message {
@@ -9,7 +9,7 @@ export class Message {
   @Column()
   content: string;
 
-  @ManyToMany(() => Key)
+  @ManyToMany(() => Consultation)
   @JoinTable()
-  keys: Key[];
+  keys: Consultation[];
 }
