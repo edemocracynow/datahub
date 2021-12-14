@@ -12,10 +12,12 @@ export class MessageListener {
 	public async listenForMessage(message: MessageDto): Promise<void> {
 		
 		var someEncodedString = Buffer.from(JSON.stringify(message), 'utf-8').toString();
-		logger.log(`obj: ${someEncodedString}`);
-		let data = JSON.parse(someEncodedString['content'])
-		var obj=JSON.stringify(data)
 		
+		let data = JSON.parse(someEncodedString)
+		let buffer = Buffer.from(data['content']['data']);
+		logger.log(`content: ${buffer}`);
+		var str = buffer.toString('utf8')
+		logger.log(`str: ${str}`);
 		
 		const consultations = await getRepository(Consultation)
 			.createQueryBuilder("c")
