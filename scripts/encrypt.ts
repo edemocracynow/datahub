@@ -1,3 +1,5 @@
+import { MessageDto } from "libs/core/src/dto/message.dto";
+
 const amqp = require('amqplib/callback_api');
 const rabbit = process.env.RABBIT_HOST || "localhost:5672";
 const user = process.env.RABBIT_USER || "bureaudevote";
@@ -22,10 +24,10 @@ const openpgp = require('openpgp'); // use as CommonJS, AMD, ES6 module or via w
 
 				var options = {
 					persistent: true,
-					noAck: false,
-					timestamp: Date.now(),
-					contentEncoding: "utf-8",
-					contentType: "application/json"
+//					noAck: false,
+//					timestamp: Date.now(),
+//					contentEncoding: "utf-8",
+//					contentType: "application/json"
 				};
 				channel.sendToQueue(queue, Buffer.from(JSON.stringify({ message_content: msg, consultation_id: 1 })), options);
 				console.log("Sent '%s'", msg);

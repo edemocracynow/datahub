@@ -1,6 +1,5 @@
 import { Body, Controller, Post, Get, Query } from '@nestjs/common';
 import { QueueService } from '@team-supercharge/nest-amqp';
-import { AdminQueue } from './admin.queue';
 import { getConnection, getRepository } from "typeorm";
 import { Key } from 'src/app/entities/key.entity';
 import { AdminDto } from './admin.dto';
