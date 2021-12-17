@@ -16,5 +16,16 @@
 				"libs/core/src"
 			]
 		}
+	},
+	"ts-node": {
+		"compilerOptions": {
+			"paths": {
+				"@core": [
+					"libs/core/src"
+				]
+			},
+			"module": "CommonJS",
+			"target": "es2017"
+		}
 	}
 }

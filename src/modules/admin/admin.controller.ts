@@ -1,8 +1,8 @@
 import { Body, Controller, Post, Get, Query } from '@nestjs/common';
 import { QueueService } from '@team-supercharge/nest-amqp';
+import { AdminDto } from 'libs/core/src/dto/admin.dto';
+import { Key } from 'libs/core/src/entities/key.entity';
 import { getConnection, getRepository } from "typeorm";
-import { Key } from 'src/app/entities/key.entity';
-import { AdminDto } from './admin.dto';
 
 const openpgp = require("openpgp");
 

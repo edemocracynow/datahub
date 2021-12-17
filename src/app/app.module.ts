@@ -7,10 +7,10 @@ import { AdminModule } from '../modules/admin/admin.module';
 import { MessageModule } from '../modules/messages/message.module';
 
 import { TypeOrmModule } from '@nestjs/typeorm';
-import { Key } from './entities/key.entity';
-import { Consultation } from './entities/consultation.entity';
-import { Message } from './entities/message.entity';
-import { PublicAdministration } from './entities/pa.entity';
+import { Key } from 'libs/core/src/entities/key.entity';
+import { PublicAdministration } from 'libs/core/src/entities/pa.entity';
+import { Message } from 'libs/core/src/entities/message.entity';
+import { Consultation } from 'libs/core/src/entities/consultation.entity';
 
 const rabbit = process.env.RABBIT_HOST || "localhost:5672";
 const user = process.env.RABBIT_USER || "bureaudevote";

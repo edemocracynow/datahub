@@ -1,15 +1,17 @@
 import { Expose } from 'class-transformer';
-import { IsInt, IsString } from 'class-validator';
 
 @Expose()
 export class MessageDto {
-	//  @IsString()
-	public readonly message_content: string;
+	private content: string;
 
-	//  @IsInt()
-	public readonly consultation_id: string;
-
-	constructor(data: MessageDto) {
-		Object.assign(this, data);
+	private id: number;
+	
+	getContent(){
+		return this.content
 	}
+	
+	getId(){
+		return this.id
+	}
+
 }

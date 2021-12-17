@@ -6,7 +6,7 @@
 		"start": "nest start",
 		"start:dev": "nest start --watch",
 		"start:prod": "node dist/main",
-		"encrypt": "ts-node ./scripts/encrypt.ts"
+		"encrypt": "ts-node --project tsconfig.json ./scripts/encrypt.ts"
 	},
 	"dependencies": {
 		"@nestjs/common": "^8.0.6",
