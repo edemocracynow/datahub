@@ -1,18 +1,24 @@
 import { Body, Controller, Post } from '@nestjs/common';
-import { QueueService } from '@team-supercharge/nest-amqp';
 
-import { UserQueue } from './user.queue';
 import { UserDto } from './user.dto';
+import { Key } from 'libs/core/src/entities/key.entity';
+import { getConnection, getRepository } from "typeorm";
 
 @Controller('user')
 export class UserController {
-  constructor(private readonly queueService: QueueService) {}
 
-  @Post()
-  public async sendAddUserMessage(@Body() body: UserDto): Promise<string> {
-	console.log(body)
-    await this.queueService.send<UserDto>(UserQueue.ADD_USER, body);
-
-    return 'Add user event sent';
-  }
+	@Post()
+	public async registerUser(@Body() body: UserDto): Promise<string> {
+		console.log(body)
+		await getConnection()
+			.createQueryBuilder()
+			.insert()
+			.into(Key)
+			.values({
+				name: body.token,
+				pub_key: body.pub_key
+			})
+			.execute();
+		return "OK";
+	}
 }

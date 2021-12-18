@@ -29,11 +29,8 @@ async function send(msg) {
 				//					contentType: "application/json"
 			};
 			
-			let m = plainToClass(MessageDto, { "content": msg, "id": 1});
 			
-			console.log(JSON.stringify(m))
-			
-			channel.sendToQueue(queue, Buffer.from(JSON.stringify(m)), options);
+			channel.sendToQueue(queue, Buffer.from(JSON.stringify({ "content": msg, "id": 1})), options);
 			console.log("Sent '%s'", msg);
 		});
 		setTimeout(function() {

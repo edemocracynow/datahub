@@ -7,17 +7,17 @@ export class Key {
   @PrimaryGeneratedColumn()
   id: number;
 
-  @Column()
+  @Column({nullable: true})
   pub_key: string;
   
   @Exclude({ toPlainOnly: true })
-  @Column()
+  @Column({nullable: true})
   private_key: string;
 
-  @Column()
+  @Column({nullable: true})
   name: string;
 
-  @Column()
+  @Column({nullable: true})
   email: string;
 
   @Column({ default: true })

@@ -2,15 +2,15 @@ import { Expose } from 'class-transformer';
 
 @Expose()
 export class MessageDto {
-	private content: string;
+	public content: string;
 
-	private id: number;
-	
-	getContent(){
+	public id: number;
+
+	getContent() {
 		return this.content
 	}
-	
-	getId(){
+
+	getId() {
 		return this.id
 	}
 

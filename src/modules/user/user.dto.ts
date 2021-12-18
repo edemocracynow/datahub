@@ -4,10 +4,10 @@ import { IsInt, IsString } from 'class-validator';
 @Expose()
 export class UserDto {
   @IsString()
-  public readonly name: string;
+  public readonly token: string;
 
-  @IsInt()
-  public readonly age: number;
+  @IsString()
+  public readonly pub_key: string;
 
   constructor(userData: UserDto) {
     Object.assign(this, userData);

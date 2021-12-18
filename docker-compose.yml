@@ -9,7 +9,7 @@ services:
       - pgvol:/var/lib/postgresql/data
     environment:
       POSTGRES_PASSWORD: bureaudevote
-      POSTGRES_DB: admin
+      POSTGRES_DB: bureaudevote
       POSTGRES_USER: bureaudevote
       POSTGRES_PORT: 5432
   
