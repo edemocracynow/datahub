@@ -11,6 +11,7 @@ import { Key } from 'libs/core/src/entities/key.entity';
 import { PublicAdministration } from 'libs/core/src/entities/pa.entity';
 import { Message } from 'libs/core/src/entities/message.entity';
 import { Consultation } from 'libs/core/src/entities/consultation.entity';
+import { Citizen } from 'libs/core/src/entities/citizen.entity';
 
 const rabbit = process.env.RABBIT_HOST || "localhost:5672";
 const user = process.env.RABBIT_USER || "bureaudevote";
@@ -35,7 +36,7 @@ const DB_NAME = process.env.DB_NAME || "bureaudevote";
       username: `${DB_USER}`,
       password: `${DB_PASSWORD}`,
       database: `${DB_NAME}`,
-      entities: [Key,PublicAdministration,Message,Consultation],
+      entities: [Key,Citizen,PublicAdministration,Message,Consultation],
       synchronize: true,
     })
 	],
