@@ -1,4 +1,4 @@
-import { Entity, Column, PrimaryGeneratedColumn, OneToMany, JoinTable, ManyToMany } from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn, OneToMany, JoinTable, ManyToMany, CreateDateColumn } from 'typeorm';
 import { PublicAdministration } from './pa.entity';
 
 @Entity()
@@ -9,13 +9,13 @@ export class Consultation {
   @Column()
   name: string;
 
-  @Column()
-  creationDate: string;
+  @CreateDateColumn()
+  creation_date: Date;
 
   @ManyToMany(() => PublicAdministration)
   @JoinTable()
-  publicAdministrations: PublicAdministration[];
+  public_administrations: PublicAdministration[];
 
   @Column({ default: true })
-  isActive: boolean;
+  is_active: boolean;
 }

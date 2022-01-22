@@ -1,12 +1,15 @@
 version: "3.2"
 services:
   pg:
-    image: asinatra/postgres  
+    build:
+      context: ./
+      dockerfile: docker/postgres/Dockerfile
     container_name: postgres
     ports:
       - 5432:5432
     volumes:
       - pgvol:/var/lib/postgresql/data
+      - ./docker/postgres/data:/docker-entrypoint-initdb.d
     environment:
       POSTGRES_PASSWORD: bureaudevote
       POSTGRES_DB: bureaudevote

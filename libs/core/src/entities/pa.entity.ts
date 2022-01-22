@@ -1,5 +1,6 @@
-import { Entity, Column, PrimaryGeneratedColumn, OneToOne, JoinColumn } from 'typeorm';
+import { Entity, Index, Column, PrimaryGeneratedColumn, OneToOne, JoinColumn } from 'typeorm';
 import { Key } from './key.entity';
+import { Commune } from './communes.entity';
 
 @Entity()
 export class PublicAdministration {
@@ -9,8 +10,9 @@ export class PublicAdministration {
   @Column()
   name: string;
 
-  @Column()
-  cap: string;
+  @OneToOne(() => Commune)
+  @JoinColumn()
+  commune: Commune;
 
   @OneToOne(() => Key)
   @JoinColumn()
