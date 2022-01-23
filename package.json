@@ -17,14 +17,17 @@
 		"@nestjs/typeorm": "^8.0.2",
 		"@team-supercharge/nest-amqp": "^3.0.3",
 		"@types/geojson": "^7946.0.8",
+		"axios": "^0.25.0",
 		"class-transformer": "^0.4.0",
 		"class-validator": "^0.13.2",
 		"openpgp": "4.10.10",
+		"osm-read": "^0.7.0",
 		"pg": "^8.7.1",
 		"reflect-metadata": "^0.1.13",
 		"rimraf": "^3.0.2",
 		"rxjs": "^7.3.0",
-		"typeorm": "^0.2.41"
+		"typeorm": "^0.2.41",
+		"xmlbuilder2": "^3.0.2"
 	},
 	"devDependencies": {
 		"@nestjs/cli": "^8.1.1",

@@ -1,0 +1,2691 @@
+<?xml version="1.0"?>
+<osm>
+  <node changeset="116548336" lat="41.62274408854911" lon="8.976419765267416" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200043c@ac-corse.fr"/>
+    <tag k="addr" v="Boulevard Jean Nicolai"/>
+    <tag k="name" v="Section d'enseignement professionnel du Lycée Georges Clemenceau"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.9176591174533" lon="8.73424015136479" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200010s@ac-corse.fr"/>
+    <tag k="addr" v="Boulevard Pascal Rossini"/>
+    <tag k="name" v="Collège Fesch"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93766062108098" lon="8.757400086678894" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200039Y@ac-corse.fr"/>
+    <tag k="addr" v="Quartier PIETRALBA RUE NONCE BENIELLI"/>
+    <tag k="name" v="Ecole maternelle Pietralba Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.38649312174259" lon="9.156960395056085" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200088B@ac-corse.fr"/>
+    <tag k="addr" v="Place Castellettu"/>
+    <tag k="name" v="Ecole primaire Bonifacio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.700027343526735" lon="9.124599933615706" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200096K@ac-corse.fr"/>
+    <tag k="addr" v="LEVIE"/>
+    <tag k="name" v="Ecole primaire Lévie"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.58928866554444" lon="9.278130247773316" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200119K@ac-corse.fr"/>
+    <tag k="addr" v="Rue Fontana Vecchia"/>
+    <tag k="name" v="Ecole maternelle Jean Santini Porto Vecchio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.59202923139068" lon="9.280159908198872" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200120L@ac-corse.fr"/>
+    <tag k="addr" v="Rue Pasteur"/>
+    <tag k="name" v="Ecole primaire Joseph Pietri 1 Porto Vecchio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.56136475769164" lon="9.240960214921106" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200122N@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Ceccia"/>
+    <tag k="name" v="Ecole primaire de Ceccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.90808530061618" lon="9.130009916398501" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200149T@ac-corse.fr"/>
+    <tag k="addr" v="ZICAVO"/>
+    <tag k="name" v="Ecole primaire Zicavo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.85868183204968" lon="8.805514454281004" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200150U@ac-corse.fr"/>
+    <tag k="addr" v="Lieu-dit MOLINI AGOSTA"/>
+    <tag k="name" v="Ecole primaire Molini Agosta Albitreccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.87794842456822" lon="8.981130471472511" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200159D@ac-corse.fr"/>
+    <tag k="addr" v="SANTA MARIA SICCHE"/>
+    <tag k="name" v="Ecole primaire ste Marie Sicché"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.040826744736414" lon="8.953410305823512" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200174V@ac-corse.fr"/>
+    <tag k="addr" v="CARBUCCIA"/>
+    <tag k="name" v="Ecole primaire Carbuccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.02549510913439" lon="8.841440124075131" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200192P@ac-corse.fr"/>
+    <tag k="addr" v="ZI Sarrola Carcopino URCHEGGIU"/>
+    <tag k="name" v="Ecole primaire Mezzana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.853239414546245" lon="9.400250177142535" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200305M@ac-corse.fr"/>
+    <tag k="addr" v="SOLENZARA"/>
+    <tag k="name" v="Ecole primaire Sari Solenzara"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93634164681861" lon="8.746510064874855" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200395K@ac-corse.fr"/>
+    <tag k="addr" v="Chemin Candia"/>
+    <tag k="name" v="Ecole primaire Jérôme Santarelli  Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.92232071485839" lon="8.739139866726692" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200399P@ac-corse.fr"/>
+    <tag k="addr" v="17 boulevard Roi Jérôme"/>
+    <tag k="name" v="Ecole primaire Sampiero Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.98075733234216" lon="8.796259804551234" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200452X@ac-corse.fr"/>
+    <tag k="addr" v="AFA"/>
+    <tag k="name" v="Ecole primaire Afa"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91893619312443" lon="8.73880027118514" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200509J@ac-corse.fr"/>
+    <tag k="addr" v="JARDINS DE L EMPEREUR"/>
+    <tag k="name" v="Ecole maternelle Jardins de l'Empereur Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91744634246068" lon="8.72814008284195" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200513N@ac-corse.fr"/>
+    <tag k="addr" v="8 cours Général Leclerc"/>
+    <tag k="name" v="Ecole maternelle publique Général Leclerc Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.92250687986036" lon="8.738979514870072" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200516S@ac-corse.fr"/>
+    <tag k="addr" v="17 boulevard Roi Jérôme"/>
+    <tag k="name" v="Ecole maternelle Sampiero Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.25357917053545" lon="8.803590212353388" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200521X@ac-corse.fr"/>
+    <tag k="addr" v="EVISA"/>
+    <tag k="name" v="Ecole primaire Evisa"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.23827019225394" lon="8.63716969760644" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200527D@ac-corse.fr"/>
+    <tag k="addr" v="PIANA"/>
+    <tag k="name" v="Ecole primaire Piana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94950712354323" lon="8.772159646899777" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200608S@ac-corse.fr"/>
+    <tag k="addr" v="Route Mezzavia STILETTU"/>
+    <tag k="name" v="Ecole primaire Mezzavia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91685612072533" lon="8.73801019926476" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200617b@ac-corse.fr"/>
+    <tag k="addr" v="4 bis boulevard Lantivy"/>
+    <tag k="name" v="Ecole primaire privée Saint Joseph Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.92721121565985" lon="8.824249838661826" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200689E@ac-corse.fr"/>
+    <tag k="addr" v="LIEU DIT MASCARONE"/>
+    <tag k="name" v="Ecole maternelle Augustin Gambarelli Bastelicaccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94195570686801" lon="8.753860532897052" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200705X@ac-corse.fr"/>
+    <tag k="addr" v="LES HAUTS DE BODICCIONE"/>
+    <tag k="name" v="Ecole maternelle Bodiccione Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.932620408105386" lon="8.737919765072183" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="scola.aiaccina@gmail.com"/>
+    <tag k="addr" v="0 rue rue des pommiers"/>
+    <tag k="name" v="ECOLE ELEMENTAIRE PRIVEE SCOLA AIACCINA"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="42.45734894408485" lon="9.343600268109624" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200094P@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Ortiporio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.964659638612495" lon="9.352109345391623" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200131E@ac-corse.fr"/>
+    <tag k="addr" v="Hameau d'Orche"/>
+    <tag k="name" v="Ecole primaire Centuri"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.46361044191436" lon="9.207079871347132" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200135J@ac-corse.fr"/>
+    <tag k="addr" v="Village Morosaglia RIPALE CERCHIO"/>
+    <tag k="name" v="Ecole primaire Ponte Leccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.80839397825767" lon="9.485890372546079" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200149Z@ac-corse.fr"/>
+    <tag k="addr" v="MARINE"/>
+    <tag k="name" v="Ecole primaire Sisco"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.49323709075484" lon="9.472290590913655" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200150A@ac-corse.fr"/>
+    <tag k="addr" v="CRUCIATA"/>
+    <tag k="name" v="Ecole maternelle Cruciata Venzolasca"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.60536435842463" lon="9.25841031368209" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200193X@ac-corse.fr"/>
+    <tag k="addr" v="SANTO PIETRO VILLAGE"/>
+    <tag k="name" v="Ecole primaire Sto Pietro di Tenda"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.506600721750445" lon="8.858759638014451" source="http://opendata.corsica/">
+    <tag k="isced:level" v="1"/>
+    <tag k="contact" v="ce.7200200E@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Villanova"/>
+    <tag k="name" v="Ecole élémentaire J.Balestrini Calenzana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.60245989447303" lon="8.92817998994837" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200220B@ac-corse.fr"/>
+    <tag k="addr" v="POGGIO"/>
+    <tag k="name" v="Ecole primaire Hameau Poggio Sta Réparata di Balagna"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.545664151054275" lon="9.185779897939721" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200223E@ac-corse.fr"/>
+    <tag k="addr" v="GROUPE SCOLAIRE"/>
+    <tag k="name" v="Ecole primaire Pietralba"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.542915304509876" lon="8.93642988315674" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200241Z@ac-corse.fr"/>
+    <tag k="addr" v="FELICETO"/>
+    <tag k="name" v="Ecole primaire Feliceto"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.545417387812854" lon="8.914579866749605" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200243B@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Muro"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.37078718831105" lon="9.52329997088837" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200269E@ac-corse.fr"/>
+    <tag k="addr" v="PRATO"/>
+    <tag k="name" v="Ecole primaire San nicolao Moriani Plage bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.23284099491516" lon="9.173389672307191" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200293F@ac-corse.fr"/>
+    <tag k="addr" v="SAINT MICHEL"/>
+    <tag k="name" v="Ecole primaire Venaco bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.093581400189095" lon="9.367450317237017" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200301P@ac-corse.fr"/>
+    <tag k="addr" v="MAISON PIERAGGI"/>
+    <tag k="name" v="Ecole primaire Pietroso"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.40066300032984" lon="9.480310491723564" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200312B@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Carbonaccio"/>
+    <tag k="name" v="Ecole primaire Velone Orneto bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.017158968663004" lon="9.401079628684188" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200344L@ac-corse.fr"/>
+    <tag k="addr" v="Rue Saint Michel"/>
+    <tag k="name" v="Ecole primaire Ghisonaccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.48538737862288" lon="9.455359722106266" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200362F@ac-corse.fr"/>
+    <tag k="addr" v="Village RN 198 VIGNARELLA"/>
+    <tag k="name" v="Ecole primaire Venzolasca Village"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.49267486499986" lon="9.439560417608813" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200364H@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Vescovato Village"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.46716367090813" lon="9.45996016838892" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200384E@ac-corse.fr"/>
+    <tag k="addr" v="PENTA VILLAGE"/>
+    <tag k="name" v="Ecole primaire Penta di CasincaVillage"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.69869120811228" lon="9.44777993493328" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200409G@ac-corse.fr"/>
+    <tag k="addr" v="Rue Saint François"/>
+    <tag k="name" v="Ecole primaire d'application Modeste Venturi Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.69462979165924" lon="9.44843977119383" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200412K@ac-corse.fr"/>
+    <tag k="addr" v="Boulevard Auguste Gaudin"/>
+    <tag k="name" v="Ecole primaire Gaudin Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.706366130375734" lon="9.452460154698784" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200424Y@ac-corse.fr"/>
+    <tag k="addr" v="TOGA"/>
+    <tag k="name" v="Ecole maternelle Georges Charpack Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.527084951745046" lon="9.448960035834675" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200439P@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Crocetta Lucciana"/>
+    <tag k="name" v="Ecole primaire Crocetta Lucciana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.84610338351007" lon="9.428999807299977" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200449A@ac-corse.fr"/>
+    <tag k="addr" v="ORETA"/>
+    <tag k="name" v="Ecole primaire Pietracorbara"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.89739648313687" lon="9.40527988438626" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200560W@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Piazza"/>
+    <tag k="name" v="Ecole primaire Piazza Luri"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.72232071462012" lon="9.453990062967655" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200577P@ac-corse.fr"/>
+    <tag k="addr" v="HAMEAU SAN MARTINO DI LOTA"/>
+    <tag k="name" v="Ecole primaire Pietranera San Martino di Lota"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67385782226729" lon="9.436619944706804" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200628V@ac-corse.fr"/>
+    <tag k="addr" v="MONTESORO"/>
+    <tag k="name" v="Ecole maternelle Reynoard Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.74274990225501" lon="9.456899453054332" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200630X@ac-corse.fr"/>
+    <tag k="addr" v="MIOMO"/>
+    <tag k="name" v="Ecole maternelle Miomo Santa Maria di Lota bil LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.00543926827427" lon="9.372669839141343" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200706E@ac-corse.fr"/>
+    <tag k="addr" v="Route Montagné"/>
+    <tag k="name" v="Ecole primaire Prunelli di Fiumorbu"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.33051787882848" lon="9.414776357252935" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200724z@ac-corse.fr"/>
+    <tag k="addr" v="Village"/>
+    <tag k="name" v="Ecole primaire Valle  D'Alesani bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.562281390415734" lon="9.444820089232067" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200732H@ac-corse.fr"/>
+    <tag k="addr" v="Zone Borgo"/>
+    <tag k="name" v="Ecole primaire Saint Exupery Borgo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91893619312443" lon="8.73880027118514" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="centreformation@ac-ajaccio.corsica"/>
+    <tag k="addr" v="00 lieu-dit PALAZZI PALAZZI"/>
+    <tag k="name" v="Ecole technique privée de l'ACA Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.913270195351735" lon="8.726039506857658" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ce.6209999z@ac-corse.fr"/>
+    <tag k="addr" v="1 boulevard PUGLIESI CONTI"/>
+    <tag k="name" v="Direction des services départementaux de l'éducation nationale de la Corse-du-Sud"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.59296238567134" lon="9.28159219896012" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-porto-vecchio@ac-corse.fr"/>
+    <tag k="addr" v="00 rue pasteur"/>
+    <tag k="name" v="Circonscription 1er degré Porto Vecchio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.92580442004751" lon="8.733179766622252" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200011t@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Napoléon III"/>
+    <tag k="name" v="Collège Laetitia Bonaparte"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.59655699084601" lon="9.438629520294686" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200727c@ac-corse.fr"/>
+    <tag k="addr" v="Lieu dit Campo Vallone"/>
+    <tag k="name" v="Collège de Biguglia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.16603390614203" lon="8.796040301484439" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200048h@ac-corse.fr"/>
+    <tag k="addr" v="Baradello"/>
+    <tag k="name" v="Collège Camille Borossi"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.682810368927065" lon="9.301919834190159" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200044K@ac-corse.fr"/>
+    <tag k="addr"/>
+    <tag k="name" v="Collège Maria Ghjentile"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.889263671485494" lon="8.807580327587154" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200080T@ac-corse.fr"/>
+    <tag k="addr" v="Jardin des Marines de Porticcio"/>
+    <tag k="name" v="Collège de Porticcio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.628492079918075" lon="8.932279652662732" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200123w@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Paul Bisgambiglia"/>
+    <tag k="name" v="Section d'enseignement professionnel du Lycée de Balagne"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.60055895961059" lon="9.270854627251037" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200063z@ac-corse.fr"/>
+    <tag k="addr" v="rue Vincentellu d'Istria"/>
+    <tag k="name" v="Lycée Jean-Paul de Rocca Serra"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.67410763797418" lon="8.900310137308294" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200041a@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Jean Paul Pandolfi"/>
+    <tag k="name" v="Collège Jean Nicoli"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.69776117607651" lon="9.446030591287764" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200612c@ac-corse.fr"/>
+    <tag k="addr" v="11 boulevard H de Montera"/>
+    <tag k="name" v="Collège Giraud"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.303906621643165" lon="9.150969912818589" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200004s@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Président Pierucci"/>
+    <tag k="name" v="Collège Pascal Paoli"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.89013832177758" lon="8.810998602944641" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200033S@ac-corse.fr"/>
+    <tag k="addr" v="Route du Centre Equestre hameau de Porticcio"/>
+    <tag k="name" v="Ecole maternelle Porticcio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.90901339294444" lon="8.711580457651023" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200034T@ac-corse.fr"/>
+    <tag k="addr" v="00 allée Giusti et Mondoloni"/>
+    <tag k="name" v="Ecole maternelle Residence des Iles Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.9112292990988" lon="8.720606457473966" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200038X@ac-corse.fr"/>
+    <tag k="addr" v="Rue des Lilas PARC BERTHAULT"/>
+    <tag k="name" v="Ecole maternelle Parc Berthault Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.583542377076334" lon="9.28019006091964" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200086Z@ac-corse.fr"/>
+    <tag k="addr" v="PIFANO"/>
+    <tag k="name" v="Ecole maternelle Pifano Porto Vecchio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.67561026984064" lon="8.907086261717083" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200108Y@ac-corse.fr"/>
+    <tag k="addr" v="11 rue Jean Donat Léandri"/>
+    <tag k="name" v="Ecole primaire Propriano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.5887621243665" lon="9.27746000406523" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200121M@ac-corse.fr"/>
+    <tag k="addr" v="4 rue Saint Vincent"/>
+    <tag k="name" v="Ecole primaire M. et T. Marcellesi Porto Vecchio 2"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.51690389149646" lon="9.017090299126242" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200134B@ac-corse.fr"/>
+    <tag k="addr" v="MONACCIA D'AULLENE"/>
+    <tag k="name" v="Ecole primaire Monaccia d'Aullène"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.75405369841404" lon="9.100870277979645" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200138F@ac-corse.fr"/>
+    <tag k="addr" v="SERRA DI SCOPAMENE"/>
+    <tag k="name" v="Ecole primaire Serra di Scopamène"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.54419896529486" lon="9.198700202993223" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200139G@ac-corse.fr"/>
+    <tag k="addr" v="SOTTA"/>
+    <tag k="name" v="Ecole primaire Sotta"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.935389349637" lon="9.155220529176374" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200143L@ac-corse.fr"/>
+    <tag k="addr" v="COZZANO"/>
+    <tag k="name" v="Ecole primaire Cozzano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.02549510913439" lon="8.841440124075131" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200193R@ac-corse.fr"/>
+    <tag k="addr" v="ZI Sarrola Carcopino URCHEGGIA"/>
+    <tag k="name" v="Ecole maternelle Sarrola Mezzana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93028343511804" lon="8.735209489146975" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200392G@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Président Kennedy"/>
+    <tag k="name" v="Ecole primaire Saint Jean III Castelvecchio Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.13061610047942" lon="8.703679559563154" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200402T@ac-corse.fr"/>
+    <tag k="addr" v="SAGONE"/>
+    <tag k="name" v="Ecole primaire Sagone"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.98954130672235" lon="8.77529012091872" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200457C@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Volpaja"/>
+    <tag k="name" v="Ecole primaire Volpaja Appieto"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.916567744018" lon="8.737979680850835" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200511L@ac-corse.fr"/>
+    <tag k="addr" v="4 bis boulevard Lantivy"/>
+    <tag k="name" v="Ecole maternelle Soeur Alphonse Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91427835178412" lon="8.728059778330602" source="http://opendata.corsica/">
+    <tag k="isced:level" v="1"/>
+    <tag k="contact" v="ce.6200515R@ac-corse.fr"/>
+    <tag k="addr" v="3 boulevard Adolphe Landry"/>
+    <tag k="name" v="Ecole Elémentaire Charles Bonafedi Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.8258256166706" lon="8.780579776263584" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200648K@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Rupione"/>
+    <tag k="name" v="Ecole primaire Rupione Pietrosella"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.043038076020494" lon="8.97662976394106" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200696M@ac-corse.fr"/>
+    <tag k="addr" v="UCCIANI"/>
+    <tag k="name" v="Ecole maternelle Ucciani"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.72148403026105" lon="9.146600126955247" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200715H@ac-corse.fr"/>
+    <tag k="addr" v="Village Gialla GIALLA"/>
+    <tag k="name" v="Ecole primaire San Gavinu di Carbini"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.930643846568096" lon="8.831403031550092" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="scolacrisalida@gmail.com"/>
+    <tag k="addr" v="Chemin de Mela"/>
+    <tag k="name" v="Ecole maternelle privée Scola Crisalida Bastelicaccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="42.245965925229974" lon="9.171189630456674" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200055X@ac-corse.fr"/>
+    <tag k="addr" v="PIAZZA L'AGHJA"/>
+    <tag k="name" v="Ecole primaire Sto Pietro di Venaco"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.11713192103534" lon="9.517209735013685" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200095R@ac-corse.fr"/>
+    <tag k="addr" v="ALERIA"/>
+    <tag k="name" v="Ecole primaire Lustincone"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.17595296328605" lon="9.246519480656108" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200136K@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Vezzani LCC Bilingue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.63226882446139" lon="9.357929824363094" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200169W@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Oletta"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.48869879085507" lon="9.116280405482188" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200212T@ac-corse.fr"/>
+    <tag k="addr" v="Hameau Tighielle"/>
+    <tag k="name" v="Ecole primaire Moltifao"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.61752969542271" lon="8.90656949920107" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200215W@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Corbara"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.594964072673164" lon="9.16444007464277" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200224F@ac-corse.fr"/>
+    <tag k="addr" v="CANAPALE VILLAGE"/>
+    <tag k="name" v="Ecole primaire Urtaca"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.435157127661476" lon="9.298010133437552" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200228K@ac-corse.fr"/>
+    <tag k="addr" v="U CUVENTU MOROSAGLIA"/>
+    <tag k="name" v="Ecole primaire U cuventu Morosaglia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.60838966717018" lon="8.862420168585677" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200237V@ac-corse.fr"/>
+    <tag k="addr" v="Village"/>
+    <tag k="name" v="Ecole primaire Alcajola bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.420885483830766" lon="9.351879593007613" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200276M@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire La Porta"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.374482033774896" lon="9.36745049438299" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200324P@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Piedicroce"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.20081369169271" lon="9.538179850097507" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200331X@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Bravone Linguizzetta"/>
+    <tag k="name" v="Ecole primaire Bravone Linguizetta"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.30548431361852" lon="9.149629894546536" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200372S@ac-corse.fr"/>
+    <tag k="addr" v="Rue Colonel Feracci"/>
+    <tag k="name" v="Ecole maternelle Sandreschi Corté LCC Bilingue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.47586520831213" lon="9.430220197505443" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200383D@ac-corse.fr"/>
+    <tag k="addr" v="LORETO DI CASINCA"/>
+    <tag k="name" v="Ecole primaire Loreto di Casinca"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.657177090450716" lon="9.432350188088076" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200433H@ac-corse.fr"/>
+    <tag k="addr" v="Groupe SCOLAIRE PIE DI PIAGGHJA"/>
+    <tag k="name" v="Ecole primaire Furiani"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.84382162217445" lon="9.330920212175098" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200562Y@ac-corse.fr"/>
+    <tag k="addr" v="Hameau Piazza"/>
+    <tag k="name" v="Ecole primaire Canari"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.68148467010634" lon="9.440782715795258" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200591E@ac-corse.fr"/>
+    <tag k="addr" v="Rue Marengo LUPINO"/>
+    <tag k="name" v="Ecole maternelle J. Calloni Bastia bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.69710219159005" lon="9.444049644330253" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200613d@ac-corse.fr"/>
+    <tag k="addr" v="15  BOULEVARD DANESI"/>
+    <tag k="name" v="Ecole primaire privée Jeanne d'Arc Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="42.674627046409604" lon="9.438210009235762" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200649T@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Legastellois"/>
+    <tag k="name" v="Ecole primaire AB Defendini Bastia bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.42875923865155" lon="9.439809557574193" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200700Y@ac-corse.fr"/>
+    <tag k="addr" v="CHAMPLAN"/>
+    <tag k="name" v="Ecole primaire Pruno"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.594086730136226" lon="9.432690508526836" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="thelittleschool2b@gmail.com"/>
+    <tag k="addr" v="00 village LOT LES JARDINS D'ORTALE"/>
+    <tag k="name" v="école élémentaire privée The Little School 2b Biguglia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="42.6319326754106" lon="8.944900210491666" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="cio-irousse@ac-corse.fr"/>
+    <tag k="addr" v="Route de Calvi"/>
+    <tag k="name" v="Centre d'information et d'orientation de l'Ile-Rousse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.703840377680365" lon="9.453457867470727" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-biasud@ac-corse.fr"/>
+    <tag k="addr" v="05 bis rue chanoine Leschi"/>
+    <tag k="name" v="Bastia Biguglia Lucciana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="42.44340309293651" lon="9.5088286843157" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-folelli@ac-corse.fr"/>
+    <tag k="addr" v="01 allée de la poste LOTISSEMENT CARDICCIA"/>
+    <tag k="name" v="Circonscription d'inspection du 1er degré de Folelli Plaine Orientale"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.649410888867415" lon="9.196839717943847" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200063z@ac-corse.fr"/>
+    <tag k="addr" v="Route de l'Ospédale"/>
+    <tag k="name" v="Section d'enseignement professionnel du lycée Jean-Paul De Rocca Serra"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.68975114312225" lon="9.446080153173234" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200012a@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Saint-Joseph"/>
+    <tag k="name" v="Collège Saint-Joseph"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.48885511029318" lon="9.115960569229948" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200086F@ac-corse.fr"/>
+    <tag k="addr" v="Moltifao"/>
+    <tag k="name" v="Collège de Moltifao"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.69686673547295" lon="9.44401986720604" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200139N@ac-corse.fr"/>
+    <tag k="addr" v="15 boulevard Benoîte Danési"/>
+    <tag k="name" v="Collège Jeanne d'Arc"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.91893619312443" lon="8.73880027118514" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200191n@ac-corse.fr"/>
+    <tag k="addr" v="Sarrola Carcopino"/>
+    <tag k="name" v="Collège de Baleone Sarrola Carcopino"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.69948144185874" lon="9.12425965327129" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200026J@ac-corse.fr"/>
+    <tag k="addr" v="Village"/>
+    <tag k="name" v="Collège Jacques de Rocca Serra"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.5776532886038" lon="9.266890168426015" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200697n@ac-corse.fr"/>
+    <tag k="addr" v="Chemin d'Agnarella"/>
+    <tag k="name" v="Collège Maria de Peretti"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.62847940201909" lon="8.932799693839328" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200123w@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Paul Bisgambiglia"/>
+    <tag k="name" v="Lycée de Balagne"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.6985417889726" lon="9.451509464552837" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200093n@ac-corse.fr"/>
+    <tag k="addr" v="Cours Pierangeli"/>
+    <tag k="name" v="Lycée professionnel Jean Nicoli"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.621135254502306" lon="8.972990166642917" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="cio-sart@ac-corse.fr"/>
+    <tag k="addr" v="3 cours Bonaparte"/>
+    <tag k="name" v="Centre d'information et d'orientation de Sartene"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.30942572558982" lon="9.149020437185637" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="cio-corte@ac-corse.fr"/>
+    <tag k="addr" v="Campus Grimaldi"/>
+    <tag k="name" v="Centre d'information et d'orientation de Corte"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91712343927194" lon="8.733340174624715" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ce.6200665D@ac-corse.fr"/>
+    <tag k="addr" v="Boulevard PASCAL ROSSINI"/>
+    <tag k="name" v="Rectorat Académie de Corse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.80966119361667" lon="9.012038314838533" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200046F@ac-corse.fr"/>
+    <tag k="addr" v="u pozzu"/>
+    <tag k="name" v="Ecole primaire Moca Croce"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.74964098246954" lon="9.171879627630668" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200102S@ac-corse.fr"/>
+    <tag k="addr" v="STE LUCIE DE PORTO VECCH"/>
+    <tag k="name" v="Ecole primaire Sainte Lucie de Porto-Vecchio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.67555199845807" lon="8.90494942047608" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200109Z@ac-corse.fr"/>
+    <tag k="addr" v="PROPRIANO"/>
+    <tag k="name" v="Ecole maternelle Propriano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.785318165810494" lon="8.980410007746134" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200115F@ac-corse.fr"/>
+    <tag k="addr" v="OLMO"/>
+    <tag k="name" v="Ecole primaire Pétreto Bicchisano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.77188575489499" lon="9.080440276623813" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200133A@ac-corse.fr"/>
+    <tag k="addr" v="AULLENE"/>
+    <tag k="name" v="Ecole primaire Aullène"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.49188179901377" lon="9.055080213943745" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200136D@ac-corse.fr"/>
+    <tag k="addr" v="PIANOTTOLI-CALDARELLO"/>
+    <tag k="name" v="Ecole primaire Pianotolli Caldarellu"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.812751133453865" lon="8.911019673124397" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200157B@ac-corse.fr"/>
+    <tag k="addr" v="PILA CANALE"/>
+    <tag k="name" v="Ecole primaire Pila Canale"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.619828616961954" lon="8.97115032012055" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200165K@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Joseph Tramoni"/>
+    <tag k="name" v="Ecole maternelle Sartène"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.619515170235" lon="8.971879591546713" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200166L@ac-corse.fr"/>
+    <tag k="addr" v="4 avenue Gabriel Péri"/>
+    <tag k="name" v="Ecole primaire Sartène"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.970158810942785" lon="8.772509545905057" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200170R@ac-corse.fr"/>
+    <tag k="addr" v="00 lieu-dit TROVA"/>
+    <tag k="name" v="Ecole primaire Trova"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94934664169223" lon="8.77240937326791" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200172T@ac-corse.fr"/>
+    <tag k="addr" v="Route Mezzavia STILETTU"/>
+    <tag k="name" v="Ecole maternelle Mezzavia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.96132012356181" lon="8.727689465230073" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200180B@ac-corse.fr"/>
+    <tag k="addr" v="Col du Pruno"/>
+    <tag k="name" v="Ecole primaire Pruno"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.961204633626046" lon="8.727709600112114" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200195T@ac-corse.fr"/>
+    <tag k="addr" v="Col du Pruno"/>
+    <tag k="name" v="Ecole maternelle Pruno Alata"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.916549293757924" lon="8.738749703024308" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200400R@ac-corse.fr"/>
+    <tag k="addr" v="22 rue Forcioli Conti"/>
+    <tag k="name" v="Ecole primaire Forcioli Conti Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.000936780353655" lon="9.050199619614373" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200462H@ac-corse.fr"/>
+    <tag k="addr" v="BASTELICA"/>
+    <tag k="name" v="Ecole primaire Bastelica"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.00486771573988" lon="8.92060013334851" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200476Y@ac-corse.fr"/>
+    <tag k="addr" v="PÉRIPHÉRIQUE"/>
+    <tag k="name" v="Ecole primaire Peri"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.025494976322776" lon="8.841442527507775" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200478A@ac-corse.fr"/>
+    <tag k="addr" v="la tour"/>
+    <tag k="name" v="Ecole primaire Sarrola Carcopino"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.02363592949169" lon="8.824159532525433" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200480C@ac-corse.fr"/>
+    <tag k="addr" v="VALLE DI MEZZANA"/>
+    <tag k="name" v="Ecole primaire Valle di Mezzana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.92954170619844" lon="8.732680126735588" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200486J@ac-corse.fr"/>
+    <tag k="addr" v="Route du Vittulo"/>
+    <tag k="name" v="Ecole primaire Loreto Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.9338373098245" lon="8.742359456591055" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200507G@ac-corse.fr"/>
+    <tag k="addr" v="Rue Jean Chiappe CITE DES CANNES"/>
+    <tag k="name" v="Ecole maternelle Cannes Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.258216098271305" lon="8.745860469139243" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200529F@ac-corse.fr"/>
+    <tag k="addr" v="OTA"/>
+    <tag k="name" v="Ecole primaire Ota"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.929282826562996" lon="8.732720049704213" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200590X@ac-corse.fr"/>
+    <tag k="addr" v="Rue Colonna d'Ornano"/>
+    <tag k="name" v="Ecole maternelle Loreto Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94046134736312" lon="8.750619821638013" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200625K@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Maréchal Juin"/>
+    <tag k="name" v="Ecole primaire Simone Veil Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.728724971041835" lon="8.79850941903254" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200644F@ac-corse.fr"/>
+    <tag k="addr" v="SERRA DI FERRO"/>
+    <tag k="name" v="Ecole primaire Serra di Ferro"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.927371311983144" lon="8.824450242352015" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200688D@ac-corse.fr"/>
+    <tag k="addr" v="LIEU DIT MASCARONE"/>
+    <tag k="name" v="Ecole primaire Augustin Gambarelli Bastelicaccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.588888850856186" lon="9.27735945865305" source="http://opendata.corsica/">
+    <tag k="isced:level" v="1"/>
+    <tag k="contact" v="scola.santadivota@gmail.com"/>
+    <tag k="addr" v="00 rue SAINT VINCENT MAISON PAROISSIALE"/>
+    <tag k="name" v="école PR Sainte Dévote Porto Vecchio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.91966248922597" lon="8.735082927547998" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="staugustin2a@gmail.com"/>
+    <tag k="addr" v="10 rue Maréchal d'Ornano"/>
+    <tag k="name" v="Ecole primaire privée Saint Augustin ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.935925334387974" lon="8.737719615807718" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="contact@edc2a.com"/>
+    <tag k="addr" v="00 rue Nicolas Péraldi Résidence d'Ajaccio bât C"/>
+    <tag k="name" v="ECOLE DEMOCRATIQUE DE CORSE Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="42.621477792928516" lon="9.435209374789945" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200043J@ac-corse.fr"/>
+    <tag k="addr" v="Route Vincentello d'Istria"/>
+    <tag k="name" v="Ecole maternelle Vincentello d'Istria Biguglia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.30315018622476" lon="9.15444008114177" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200045L@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Porette"/>
+    <tag k="name" v="Ecole maternelle Porette Corté"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.701376134739526" lon="9.448119428910065" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200100W@ac-corse.fr"/>
+    <tag k="addr" v="Rue Saint François"/>
+    <tag k="name" v="Ecole maternelle d'application Modeste Venturi Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.681709174539456" lon="9.303370130420838" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200119S@ac-corse.fr"/>
+    <tag k="addr" v="Route de Bastia"/>
+    <tag k="name" v="Ecole maternelle St Florent"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.251780610923774" lon="9.182390444982547" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200129C@ac-corse.fr"/>
+    <tag k="addr" v="CORTE"/>
+    <tag k="name" v="Ecole primaire Riventosa"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.623969367162346" lon="9.420039991381772" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200141R@ac-corse.fr"/>
+    <tag k="addr" v="Route de Petrelle Casatorra"/>
+    <tag k="name" v="Ecole maternelle Toussaint Massoni Bilingue LCC Biguglia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.528391064028675" lon="9.021169655731388" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200174B@ac-corse.fr"/>
+    <tag k="addr" v="CAPELLA VILLAGE"/>
+    <tag k="name" v="Ecole primaire Olmi Capella"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.38397025612375" lon="9.28917004531068" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200190U@ac-corse.fr"/>
+    <tag k="addr" v="TRIBIA"/>
+    <tag k="name" v="Ecole primaire San Lorenzo bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.50666937634896" lon="8.859150297025396" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200201F@ac-corse.fr"/>
+    <tag k="addr" v="Quartier de l'Evêque"/>
+    <tag k="name" v="Ecole maternelle  Calenzana Balestrini bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.52972104082068" lon="8.903909451650742" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200208N@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Zilia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.62863297719443" lon="8.938289990782271" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200216X@ac-corse.fr"/>
+    <tag k="addr" v="Lotissement du Moulin à Vent"/>
+    <tag k="name" v="Ecole maternelle Le Petit Prince Ile Rousse LCC Bilingue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.567689177484745" lon="8.904199624860283" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200240Y@ac-corse.fr"/>
+    <tag k="addr" v="CATTERI"/>
+    <tag k="name" v="Ecole primaire Cateri"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.38459763547882" lon="9.526769489548975" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200265A@ac-corse.fr"/>
+    <tag k="addr" v="Lotissement la Madona"/>
+    <tag k="name" v="Ecole primaire Punticchiu Santa Lucia di Moriani"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.23727936639642" lon="9.330139637553948" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200318H@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Piedicorte di Gaggio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.303055843923254" lon="9.154730113692152" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200338E@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Porette"/>
+    <tag k="name" v="Ecole primaire Porette Corté"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.33108567249732" lon="9.490359540832378" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200340G@ac-corse.fr"/>
+    <tag k="addr" v="U PETRICCIU"/>
+    <tag k="name" v="Ecole primaire U Petricciu Cervione"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.314073838114865" lon="9.490126188324558" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200343K@ac-corse.fr"/>
+    <tag k="addr" v="ALISTRO"/>
+    <tag k="name" v="Ecole primaire Gracieuse CHIARARELLI San Giuliano bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.30802634455859" lon="9.148869683628494" source="http://opendata.corsica/">
+    <tag k="isced:level" v="1"/>
+    <tag k="contact" v="ce.7200373T@ac-corse.fr"/>
+    <tag k="addr" v="2 rue Colonel Feracci"/>
+    <tag k="name" v="Ecole élémentaire  Sandreschi Corté LCC Bilingue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.74684582625531" lon="9.433960031682478" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200378Y@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Figarella"/>
+    <tag k="name" v="Ecole primaire Santa Maria di lota  Figarella"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.6848378775808" lon="9.445430133966278" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200403A@ac-corse.fr"/>
+    <tag k="addr" v="LUPINO"/>
+    <tag k="name" v="Ecole primaire Charles Andréi Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.70541237120911" lon="9.44229986544294" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200417R@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Annonciade"/>
+    <tag k="name" v="Ecole maternelle Annonciade JT Desanti Bilingue LCC  Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.620129052672816" lon="9.426010005096149" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200426A@ac-corse.fr"/>
+    <tag k="addr" v="Route du Collège BIGUGLIA"/>
+    <tag k="name" v="Ecole primaire Groupe Scolaire Simone PERETTI"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.56167346961811" lon="9.525489581325967" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200440R@ac-corse.fr"/>
+    <tag k="addr" v="LA MARANA LUCCIANA"/>
+    <tag k="name" v="Ecole primaire Marana Lucciana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.468791914346774" lon="9.390389799461657" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200545E@ac-corse.fr"/>
+    <tag k="addr" v="Village"/>
+    <tag k="name" v="Ecole primaire Monte"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.50661142642547" lon="9.366589537583371" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200555R@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Barchetta Volpajola"/>
+    <tag k="name" v="Ecole primaire Barchetta Volpajola"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.62495788368459" lon="9.432830123828996" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200621M@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Fica Bruna"/>
+    <tag k="name" v="Ecole primaire Vincentello d'Istria Biguglia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.713024662842535" lon="9.451280240825861" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200632Z@ac-corse.fr"/>
+    <tag k="addr" v="VILLE DI PIETRABUGNO"/>
+    <tag k="name" v="Ecole primaire Kallisté Ville di Pietrabugno"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.500858300266394" lon="9.464099728022184" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200634B@ac-corse.fr"/>
+    <tag k="addr" v="Hameau d'Arena"/>
+    <tag k="name" v="Ecole maternelle Arena Vescovato"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.002497193584446" lon="9.377090460690354" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200687J@ac-corse.fr"/>
+    <tag k="addr" v="CAPANELLA"/>
+    <tag k="name" v="Ecole maternelle Prunelli Di Fiumorbo Capanella"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.559774379687504" lon="8.750479727409662" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200710J@ac-corse.fr"/>
+    <tag k="addr" v="Chemin Notre Dame de la Serra CARDELLU"/>
+    <tag k="name" v="Ecole Primaire Calvi Cardellu"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.559192742373384" lon="9.42544994221474" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200716R@ac-corse.fr"/>
+    <tag k="addr" v="CORDON LAGUNAIRE DE LA M"/>
+    <tag k="name" v="Ecole Primaire Borgo Marana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.64876449962401" lon="9.433009562111275" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200740S@ac-corse.fr"/>
+    <tag k="addr" v="Route 464 LIEU DIT CORVITACCE"/>
+    <tag k="name" v="Ecole primaire Furiani II U Principellu bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.915421665513115" lon="8.861080479779508" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200077P@ac-corse.fr"/>
+    <tag k="addr" v="VALLE DI BOVI"/>
+    <tag k="name" v="Ecole primaire Saint Jean Eccica Suarella"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.747245699320565" lon="9.172289575493767" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200101R@ac-corse.fr"/>
+    <tag k="addr" v="ZONZA"/>
+    <tag k="name" v="Ecole primaire Zonza"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.71623740433058" lon="8.916631856717823" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200106W@ac-corse.fr"/>
+    <tag k="addr" v="Rue Nicholas Lucchini OLMETO"/>
+    <tag k="name" v="Ecole primaire Olmeto"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.680523626682685" lon="8.952489773803102" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200110A@ac-corse.fr"/>
+    <tag k="addr" v="VIGGIANELLO VILLAGE"/>
+    <tag k="name" v="Ecole primaire Viggianello"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.74423726309729" lon="8.912090318001782" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200116G@ac-corse.fr"/>
+    <tag k="addr" v="CASALABRIVA SOLLACARO"/>
+    <tag k="name" v="Ecole primaire Casalabriva"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.734172342056326" lon="9.334140444851956" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200117H@ac-corse.fr"/>
+    <tag k="addr" v="CONCA"/>
+    <tag k="name" v="Ecole primaire Conca"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.68039895223458" lon="9.318394297739264" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200118J@ac-corse.fr"/>
+    <tag k="addr" v="padulella"/>
+    <tag k="name" v="Ecole primaire Lecci"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.59229725909089" lon="9.213080535178223" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200126T@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Muratello"/>
+    <tag k="name" v="Ecole primaire de Muratello"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.765256643829424" lon="9.137340167145668" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200137E@ac-corse.fr"/>
+    <tag k="addr" v="QUENZA"/>
+    <tag k="name" v="Ecole primaire Quenza"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.86838630922679" lon="8.964050237264074" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200154Y@ac-corse.fr"/>
+    <tag k="addr" v="GROSSETO PRUGNA"/>
+    <tag k="name" v="Ecole primaire Grosseto Prugna"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.9809760637279" lon="8.796049550465261" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200187J@ac-corse.fr"/>
+    <tag k="addr" v="Village AFA U MURONU"/>
+    <tag k="name" v="Ecole maternelle Afa"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91893619312443" lon="8.73880027118514" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200396L@ac-corse.fr"/>
+    <tag k="addr" v="LES JARDINS DE L EMPEREU"/>
+    <tag k="name" v="Ecole primaire Jardins de L'Empereur Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.917956250489404" lon="8.91617003944285" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200463J@ac-corse.fr"/>
+    <tag k="addr" v="CAURO"/>
+    <tag k="name" v="Ecole primaire Cauro"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.92283969665554" lon="8.907780146110893" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200464K@ac-corse.fr"/>
+    <tag k="addr" v="ECCICA SUARELLA"/>
+    <tag k="name" v="Ecole primaire Eccica Suarella"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.959053472061" lon="8.934719100085502" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200466M@ac-corse.fr"/>
+    <tag k="addr" v="la vazzina"/>
+    <tag k="name" v="Ecole primaire Ocana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.06181265244884" lon="8.825819749150442" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200472U@ac-corse.fr"/>
+    <tag k="addr" v="SARI D'ORCINO"/>
+    <tag k="name" v="Ecole primaire Sari d'Orcino"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.89013832177758" lon="8.810998602944641" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200484G@ac-corse.fr"/>
+    <tag k="addr" v="Route du Centre Equestre hameau de Porticcio"/>
+    <tag k="name" v="Ecole primaire Jean Ambroggi Porticcio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93039938420643" lon="8.736589880663256" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200490N@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Président Kennedy"/>
+    <tag k="name" v="Ecole primaire Saint Jean 1 Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.0685122192049" lon="9.015420439127944" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200491P@ac-corse.fr"/>
+    <tag k="addr" v="TAVERA"/>
+    <tag k="name" v="Ecole primaire Tavera"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.06365558364486" lon="8.931910219258798" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200493S@ac-corse.fr"/>
+    <tag k="addr" v="VERO"/>
+    <tag k="name" v="Ecole primaire Vero"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.064905971280865" lon="8.74041990075424" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200506F@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Tiuccia"/>
+    <tag k="name" v="Ecole primaire Julien Colonna Tiuccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93084944766554" lon="8.735849676181257" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200512M@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Président Kennedy"/>
+    <tag k="name" v="Ecole maternelle Saint Jean Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94046134736312" lon="8.750619821638013" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200518U@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Maréchal Juin"/>
+    <tag k="name" v="Ecole maternelle Victor Hugo Salines 6 Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.9243892752766" lon="8.736530055577482" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200616a@ac-corse.fr"/>
+    <tag k="addr" v="57 cours Napoléon"/>
+    <tag k="name" v="Notre dame de l'Assomption Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.93371780309684" lon="8.7151997925952" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200654S@ac-corse.fr"/>
+    <tag k="addr" v="3 résidence la Cilof CASTELUCCIO"/>
+    <tag k="name" v="Ecole primaire Castelluccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.72235583318788" lon="9.45423010503626" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200002P@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Pietranera"/>
+    <tag k="name" v="Ecole maternelle Pietranera San Martino di Lota"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.56069523844556" lon="9.445349809857568" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200032X@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Revinco"/>
+    <tag k="name" v="Ecole maternelle Revinco D. Antoniotti Borgo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.37397121061804" lon="9.525100538280984" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200035A@ac-corse.fr"/>
+    <tag k="addr" v="Route Moriani Plage PRATO"/>
+    <tag k="name" v="Ecole maternelle Moriani Plage San Nicolao"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.44539020976298" lon="9.511140094947033" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200048P@ac-corse.fr"/>
+    <tag k="addr" v="Impasse Lantanas"/>
+    <tag k="name" v="Ecole maternelle Folelli Penta di Casinca"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.11682416630505" lon="9.517009633015753" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200096S@ac-corse.fr"/>
+    <tag k="addr" v="Village Lustincone STAGNALE"/>
+    <tag k="name" v="Ecole maternelle Lustincone Aleria"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.692947276866036" lon="9.452280110498494" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200099V@ac-corse.fr"/>
+    <tag k="addr" v="Rue des Turquines"/>
+    <tag k="name" v="Ecole primaire spéciale La Citadelle Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67494396572384" lon="9.433969999787458" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200132F@ac-corse.fr"/>
+    <tag k="addr" v="MONTESORO"/>
+    <tag k="name" v="Ecole maternelle R.Subissi Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67516936238246" lon="9.434690552277788" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200134H@ac-corse.fr"/>
+    <tag k="addr" v="MONTESORO"/>
+    <tag k="name" v="Ecole primaire R.Subissi Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.35356245979495" lon="9.53477044574416" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200140P@ac-corse.fr"/>
+    <tag k="addr" v="SANTA MARIA POGGIO"/>
+    <tag k="name" v="Ecole primaire Marina D'Osari LCC Bilingue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.697481928659435" lon="9.361719541420333" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200185N@ac-corse.fr"/>
+    <tag k="addr" v="hameau de SANTA MARIA"/>
+    <tag k="name" v="Ecole primaire Patrimonio LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.6818779853237" lon="9.30293978159517" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200186P@ac-corse.fr"/>
+    <tag k="addr" v="Route de Bastia"/>
+    <tag k="name" v="Ecole primaire St Florent"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.40925059266354" lon="8.648360463960213" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200204J@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Galéria"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.53683644161462" lon="8.886829662456629" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200207M@ac-corse.fr"/>
+    <tag k="addr" v="CASSANO VILLAGE"/>
+    <tag k="name" v="Ecole primaire Montemaggiore"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.57760261867426" lon="8.832879848048565" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200210R@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Lumio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.62863297719443" lon="8.938289990782271" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200217Y@ac-corse.fr"/>
+    <tag k="addr" v="Lotissement du Moulin à Vent"/>
+    <tag k="name" v="Ecole primaire A. Camus Ile Rousse LCC Bilingue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.61645770896285" lon="8.954490326110589" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200218Z@ac-corse.fr"/>
+    <tag k="addr" v="Place Mairie"/>
+    <tag k="name" v="Ecole primaire Monticello"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.48086275540379" lon="9.279949636849896" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200227J@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Ponte Novu"/>
+    <tag k="name" v="Ecole primaire Castello di Rostino"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.57790310122816" lon="9.327979978413822" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200233R@ac-corse.fr"/>
+    <tag k="addr" v="PERU"/>
+    <tag k="name" v="Ecole primaire Murato"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.57935193932455" lon="9.359380591212858" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200236U@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Rutali"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.917854680989066" lon="9.384459363183762" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200263Y@ac-corse.fr"/>
+    <tag k="addr" v="TRAVO"/>
+    <tag k="name" v="Ecole primaire Travo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.107452677795116" lon="9.417820329597008" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200296J@ac-corse.fr"/>
+    <tag k="addr" v="U CASONE"/>
+    <tag k="name" v="Ecole primaire Aghione"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.336180222977184" lon="9.018309607477129" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200368M@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Calacuccia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.748852717794186" lon="9.435180007623241" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200379Z@ac-corse.fr"/>
+    <tag k="addr" v="SANTA MARIA DI LOTA"/>
+    <tag k="name" v="Ecole elem spécialisée  Les Tilleuls Figarella Sta Maria di Lota"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.46752911998138" lon="9.473270585205977" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200382C@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Saint Pancrace"/>
+    <tag k="name" v="Ecole primaire Saint Pancrace Castellare di Casinca"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.46546293556985" lon="9.533759421349323" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200385F@ac-corse.fr"/>
+    <tag k="addr" v="00  HAMEAU BP 50"/>
+    <tag k="name" v="Ecole primaire Folelli"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.55348144931752" lon="9.429130045405195" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200429D@ac-corse.fr"/>
+    <tag k="addr" v="BORGO VILLAGE"/>
+    <tag k="name" v="Ecole primaire Borgo Village"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.56054716760411" lon="9.44486001659622" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200430E@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Revinco"/>
+    <tag k="name" v="Ecole primaire Revinco D.Antoniotti Borgo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.52657108872371" lon="9.439190558711214" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200438N@ac-corse.fr"/>
+    <tag k="addr" v="CASAMOZZA LUCCIANA"/>
+    <tag k="name" v="Ecole primaire Casamozza Lucciana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.70559315700122" lon="9.44186000167057" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200593G@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Annonciade"/>
+    <tag k="name" v="Ecole primaire   JT Desanti Bilingue LCC Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.01692604585289" lon="9.402350093802898" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200595J@ac-corse.fr"/>
+    <tag k="addr" v="Rue des Ecoles"/>
+    <tag k="name" v="Ecole maternelle Ghisonaccia bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.43338970392455" lon="9.525830447283804" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200686H@ac-corse.fr"/>
+    <tag k="addr" v="MAGHIESE"/>
+    <tag k="name" v="Ecole primaire Taglio Isolaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.590738903032495" lon="9.278749751782824" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="cio-pvecchio@ac-corse.fr"/>
+    <tag k="addr" v="4 rue Abbatucci"/>
+    <tag k="name" v="Centre d'information et d'orientation de Porto Vecchio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93938561106613" lon="8.743740510696062" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200686B@ac-corse.fr"/>
+    <tag k="addr" v="AVENUE MAL LYAUTEY"/>
+    <tag k="name" v="Section d'enseignement général et technologique du Lycée professionnel Finosello Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.935925334387974" lon="8.737719615807718" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="contact@edc2a.com"/>
+    <tag k="addr" v="00 rue Nicolas Peraldi Résidence d'Ajaccio bât C"/>
+    <tag k="name" v="ECOLE DEMOCRATIQUE DE CORSE Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.92133889121349" lon="8.73576002931908" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="cio-aja@ac-corse.fr"/>
+    <tag k="addr" v="18 av Colonel Colonna d'Ornano"/>
+    <tag k="name" v="Centre d'information et d'orientation d'Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67125045638089" lon="9.442339545886085" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="cio-bastia@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Paul Giacobbi"/>
+    <tag k="name" v="Centre d'information et d'orientation de Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.70384023087951" lon="9.453460297437866" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ce.7209999f@ac-corse.fr"/>
+    <tag k="addr" v="5 bis rue CHANOINE LESCHI"/>
+    <tag k="name" v="Direction des services départementaux de l'éducation nationale de la Haute-Corse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.939661485970966" lon="8.744630046258257" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200004k@ac-corse.fr"/>
+    <tag k="addr" v="Avenue du Maréchal Lyautey"/>
+    <tag k="name" v="Lycée professionnel du Finosello Lycée des métiers de la restauration, du tertiaire et du social"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67000116195656" lon="9.441680370238624" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200011z@ac-corse.fr"/>
+    <tag k="addr" v="Montesoro - rue de la 4e DMM"/>
+    <tag k="name" v="Lycée professionnel Fred Scamaroni"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.70317999257102" lon="9.445539458300011" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200009x@ac-corse.fr"/>
+    <tag k="addr" v="Vallée du Fango"/>
+    <tag k="name" v="Lycée Giocante de Casabianca"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.30903419377901" lon="9.149025428564094" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-corte-lcc@ac-corse.fr"/>
+    <tag k="addr" v="02 rue Colonnel Ferracci"/>
+    <tag k="name" v="Circonscription d'inspection 1er degré Corté"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="42.70384023087951" lon="9.453460297437866" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-bastia-cap-nebbiu@ac-corse.fr"/>
+    <tag k="addr" v="5 bis rue CHANOINE LSCHI"/>
+    <tag k="name" v="Circonscription d'inspection du 1er degré de Bastia Cap Nebbiu"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="42.632486014893765" lon="8.940564737534583" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-ile-rousse@ac-corse.fr"/>
+    <tag k="addr" v="06 avenue Paul Doumer"/>
+    <tag k="name" v="Calvi Ile-Rousse Moltifao"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.601238063701345" lon="9.271339488783903" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200040z@ac-corse.fr"/>
+    <tag k="addr" v="Route de l'Ospédale"/>
+    <tag k="name" v="Collège Léon Boujot"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.445543833308676" lon="9.524839397438077" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200160L@ac-corse.fr"/>
+    <tag k="addr" v="Route de San Pellegrino"/>
+    <tag k="name" v="Collège Henri Tomasi Penta di Casinca"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91328093288858" lon="8.72633961162236" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-aja2@ac-corse.fr"/>
+    <tag k="addr" v="2  BOULEVARD PUGLISEI CONTI"/>
+    <tag k="name" v="Circonscription d'inspection du 1er degré d'Ajaccio II"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.950276969989574" lon="8.776893029332204" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200084X@ac-corse.fr"/>
+    <tag k="addr" v="1180 route de Maduniccia"/>
+    <tag k="name" v="Collège du Stilettu"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.66955865840512" lon="9.427439375144251" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200013B@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Paul Giacobbi"/>
+    <tag k="name" v="Collège Montesoro"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.896769650260076" lon="9.405049818626777" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200027S@ac-corse.fr"/>
+    <tag k="addr" v="San Pedro"/>
+    <tag k="name" v="Collège de Luri"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.99588261716607" lon="9.405189790103693" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200086F@ac-corse.fr"/>
+    <tag k="addr" v="Zone Industrielle de Migliacciaru"/>
+    <tag k="name" v="Collège du Fiumorbo"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.99767743479808" lon="9.403299671498017" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200086f@ac-corse.fr"/>
+    <tag k="addr" v="Zi Migliacciaro"/>
+    <tag k="name" v="Section d'enseignement professionnel du lycée de la Plaine"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.87794842456822" lon="8.981130471472511" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200045E@ac-corse.fr"/>
+    <tag k="addr" v="San sebastiano"/>
+    <tag k="name" v="Collège de Santa Marie de Sicche"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.56082928491857" lon="8.751610482297439" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200017F@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Donateo"/>
+    <tag k="name" v="Collège Jean Orabona"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.69590021423951" lon="9.447329644648145" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200624r@ac-corse.fr"/>
+    <tag k="addr" v="2 boulevard Pascal Paoli"/>
+    <tag k="name" v="Collège Simon Vinciguerra"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.99580448332419" lon="9.406270024288972" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200719u@ac-corse.fr"/>
+    <tag k="addr" v="ZI Migliacciaro"/>
+    <tag k="name" v="Lycée de la Plaine"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67000116195656" lon="9.441680370238624" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200583w@ac-corse.fr"/>
+    <tag k="addr" v="rue de la 4e DMM"/>
+    <tag k="name" v="Lycée Paul Vincensini"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.927158910418555" lon="8.73325017672445" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200002h@ac-corse.fr"/>
+    <tag k="addr" v="3 avenue Napoléon III"/>
+    <tag k="name" v="Lycée Laetitia Bonaparte"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.937266834726266" lon="8.757039451190392" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200031P@ac-corse.fr"/>
+    <tag k="addr" v="Rue Nonce Benielli"/>
+    <tag k="name" v="Ecole primaire Pietralba"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.38671665742671" lon="9.156849666703152" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200090D@ac-corse.fr"/>
+    <tag k="addr" v="Chemin des Templiers"/>
+    <tag k="name" v="Ecole maternelle Bonifacio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.48735365153257" lon="9.130109450961255" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200092F@ac-corse.fr"/>
+    <tag k="addr" v="FIGARI"/>
+    <tag k="name" v="Ecole primaire Figari"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.699483982445194" lon="9.001939660168034" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200105V@ac-corse.fr"/>
+    <tag k="addr" v="FOZZANO"/>
+    <tag k="name" v="Ecole primaire Fozzano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.84642331583466" lon="9.057459685617687" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200113D@ac-corse.fr"/>
+    <tag k="addr" v="OLIVESE"/>
+    <tag k="name" v="Ecole primaire Olivese"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.62532393439163" lon="9.290869527804288" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200128V@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Trinité"/>
+    <tag k="name" v="Ecole primaire Trinité"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.701008448552" lon="9.06284039546213" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200132Z@ac-corse.fr"/>
+    <tag k="addr" v="RICCIAJA"/>
+    <tag k="name" v="Ecole primaire Ste Lucie de Tallano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94046134736312" lon="8.750619821638013" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200393H@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Maréchal Juin"/>
+    <tag k="name" v="Ecole primaire Salines 6 Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.934277623972314" lon="8.742710032090107" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200397M@ac-corse.fr"/>
+    <tag k="addr" v="00 rue Jean Chiappe"/>
+    <tag k="name" v="Ecole primaire Cannes Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.01513084211566" lon="8.766910425814302" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200455A@ac-corse.fr"/>
+    <tag k="addr" v="APPIETTO"/>
+    <tag k="name" v="Ecole primaire Appietto"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.92820156814369" lon="8.865740551131319" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200467N@ac-corse.fr"/>
+    <tag k="addr" v="Hameau du Pont de la Pierre"/>
+    <tag k="name" v="Ecole primaire Pont de La Pierre"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.08058091814572" lon="9.057810136681402" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200469R@ac-corse.fr"/>
+    <tag k="addr" v="BOCOGNANO"/>
+    <tag k="name" v="Ecole maternelle Bocognano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.98816600055958" lon="8.905960539833831" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200473V@ac-corse.fr"/>
+    <tag k="addr" v="CUTTOLI CORTICCHIATO"/>
+    <tag k="name" v="Ecole primaire Cuttoli Corticciato"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.90926280311794" lon="8.712680216996057" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200489M@ac-corse.fr"/>
+    <tag k="addr" v="Rue Giusti et Mondoloni"/>
+    <tag k="name" v="Ecole primaire Residences des Iles Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93631096059658" lon="8.74670974098685" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200517T@ac-corse.fr"/>
+    <tag k="addr" v="Chemin Candia"/>
+    <tag k="name" v="Ecole maternelle Jerôme Santarelli Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.13537976248165" lon="8.596390122834642" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200530G@ac-corse.fr"/>
+    <tag k="addr" v="Rue Monseigneur Coti"/>
+    <tag k="name" v="Ecole primaire Cargèse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.166582775405736" lon="8.797799880150151" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.6200540T@ac-corse.fr"/>
+    <tag k="addr" v="BARALDELLU"/>
+    <tag k="name" v="Ecole primaire Camille Borossi Vico"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93585928737632" lon="8.75276990616379" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.6200626L@ac-corse.fr"/>
+    <tag k="addr" v="Rue Andria Fazi"/>
+    <tag k="name" v="Ecole maternelle Andria Fazi Ajaccio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.674526882635085" lon="9.438240481878198" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200001N@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Legastellois"/>
+    <tag k="name" v="Ecole maternelle BASTIA AB Defendini bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67951796188315" lon="9.432479737587682" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200037C@ac-corse.fr"/>
+    <tag k="addr" v="Rue Sainte-Thérèse MONTESORO"/>
+    <tag k="name" v="Ecole maternelle François Amadei"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67921034444381" lon="9.432180396807675" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200049R@ac-corse.fr"/>
+    <tag k="addr" v="Route Impériale MONTESORO"/>
+    <tag k="name" v="Ecole primaire François AMADEI"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.634231633158684" lon="8.935619415030338" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200061d@ac-corse.fr"/>
+    <tag k="addr" v="Boulevard Pierre Pasquini"/>
+    <tag k="name" v="Ecole maternelle privée Notre-Dame Ile Rousse"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="42.65671182989947" lon="9.4332898654051" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200120T@ac-corse.fr"/>
+    <tag k="addr" v="Parc Impérial"/>
+    <tag k="name" v="Ecole maternelle Furiani"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.567184276023816" lon="8.7567997342892" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200124X@ac-corse.fr"/>
+    <tag k="addr" v="8 rue Albert 1er"/>
+    <tag k="name" v="Ecole primaire Bariani Calvi"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.567506485494285" lon="8.757309593074153" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200125Y@ac-corse.fr"/>
+    <tag k="addr" v="6 rue Albert 1er"/>
+    <tag k="name" v="Ecole primaire M.Dominique Loviconi Calvi"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.7063799534461" lon="9.450080146773969" source="http://opendata.corsica/">
+    <tag k="isced:level" v="1"/>
+    <tag k="contact" v="ce.7200168V@ac-corse.fr"/>
+    <tag k="addr" v="Quartier Toga"/>
+    <tag k="name" v="Ecole élementaire Georges Charpack bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.403319861890246" lon="9.193690449034706" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200178F@ac-corse.fr"/>
+    <tag k="addr" v="FRANCARDO"/>
+    <tag k="name" v="Ecole primaire Omessa Francardo bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.63757983627403" lon="9.019780484402183" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200195Z@ac-corse.fr"/>
+    <tag k="addr" v="COSTA"/>
+    <tag k="name" v="Ecole primaire Belgodère"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.56050242323602" lon="8.753809526776736" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200211S@ac-corse.fr"/>
+    <tag k="addr" v="Route de Santore"/>
+    <tag k="name" v="Ecole maternelle Calvi"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.58338974999619" lon="8.896869795248692" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200238W@ac-corse.fr"/>
+    <tag k="addr" v="VIGNOLA"/>
+    <tag k="name" v="Ecole primaire Aregno"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.917546457813096" lon="9.384310075507134" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200264Z@ac-corse.fr"/>
+    <tag k="addr" v="TRAVO"/>
+    <tag k="name" v="Ecole maternelle Travo Ventiseri"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.17308197539225" lon="9.17006020069295" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200295H@ac-corse.fr"/>
+    <tag k="addr" v="VILLAGE"/>
+    <tag k="name" v="Ecole primaire Vivario"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.74226613175367" lon="9.460829620112083" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200377X@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Miomo"/>
+    <tag k="name" v="Ecole primaire Sta Maria di Lota  Miomo bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.713629648412095" lon="9.431160100508862" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200380A@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Guaitella"/>
+    <tag k="name" v="Ecole primaire d'application Pierre Toussaint Braccini Guaitella Ville di Pietrabugno"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.486445835589976" lon="9.478659604076086" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200389K@ac-corse.fr"/>
+    <tag k="addr" v="SORBO VILLAGE"/>
+    <tag k="name" v="Ecole primaire Sorbo Ocagnano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.690497641445596" lon="9.446610506899676" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200407E@ac-corse.fr"/>
+    <tag k="addr" v="10  RUE SAINT JOSEPH"/>
+    <tag k="name" v="Ecole primaire Campanari Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.702657614380065" lon="9.425760447236197" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200408F@ac-corse.fr"/>
+    <tag k="addr" v="CARDO"/>
+    <tag k="name" v="Ecole primaire Cardo Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.68209867430015" lon="9.44190957442532" source="http://opendata.corsica/">
+    <tag k="isced:level" v="1"/>
+    <tag k="contact" v="ce.7200413L@ac-corse.fr"/>
+    <tag k="addr" v="Village Lupino PONTE-PRADO"/>
+    <tag k="name" v="Ecole élementaire Bastia Calloni bilingue LCC"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.620753776659164" lon="9.433110381030101" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200427B@ac-corse.fr"/>
+    <tag k="addr" v="Route de Petrelle"/>
+    <tag k="name" v="Ecole primaire Toussaint Massoni Bilingue LCC Biguglia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.77457969403684" lon="9.472800732926164" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200447Y@ac-corse.fr"/>
+    <tag k="addr" v="Route du Cimetière HAMEAU DE PORRETTO"/>
+    <tag k="name" v="Ecole primaire Erbalunga"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.95898799629003" lon="9.45128002563927" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200574L@ac-corse.fr"/>
+    <tag k="addr" v="MACINAGGIO"/>
+    <tag k="name" v="Ecole primaire Macinaggio Rogliano"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.500302359330675" lon="9.464090499087686" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200594H@ac-corse.fr"/>
+    <tag k="addr" v="Hameau d'Arena"/>
+    <tag k="name" v="Ecole primaire Arena Vescovato"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67385782226729" lon="9.436619944706804" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0;1"/>
+    <tag k="contact" v="ce.7200627U@ac-corse.fr"/>
+    <tag k="addr" v="MONTESORO"/>
+    <tag k="name" v="Ecole primaire M. Reynoard Bastia"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.71310456613649" lon="9.451570478395494" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200631Y@ac-corse.fr"/>
+    <tag k="addr" v="VILLE DI PIETRABUGNO"/>
+    <tag k="name" v="Ecole maternelle Kallisté Ville di Pietrabugno"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.54506729615274" lon="9.443669635848043" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200633A@ac-corse.fr"/>
+    <tag k="addr" v="Hameau de Crocetta"/>
+    <tag k="name" v="Ecole maternelle Crocetta Lucciana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.33217816046764" lon="9.493509681765426" source="http://opendata.corsica/">
+    <tag k="isced:level" v="0"/>
+    <tag k="contact" v="ce.7200646P@ac-corse.fr"/>
+    <tag k="addr" v="Village U Casone U PETRICCIU"/>
+    <tag k="name" v="Ecole maternelle U PETRICCIU Cervione"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94880278114863" lon="8.759439931839335" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200185g@ac-corse.fr"/>
+    <tag k="addr" v="Château Bacciochi"/>
+    <tag k="name" v="Collège Saint-Paul"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.622391326062534" lon="8.975940021506855" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200055R@ac-corse.fr"/>
+    <tag k="addr" v="boulevard Jean Nicolaï"/>
+    <tag k="name" v="Collège Georges Clemenceau"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.33179958727116" lon="9.492400490258314" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200020J@ac-corse.fr"/>
+    <tag k="addr" v="Piazza u casone"/>
+    <tag k="name" v="Collège P Pescetti"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.6225703939544" lon="8.976180164153263" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200043c@ac-corse.fr"/>
+    <tag k="addr" v="boulevard Jean Nicolai"/>
+    <tag k="name" v="Lycée Georges Clemenceau"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.58565141584443" lon="9.448709556376986" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="lpa.borgo@educagri.fr"/>
+    <tag k="addr" v="650 route de Porettone"/>
+    <tag k="name" v="Lycée agricole Borgo-Marana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.67082858055736" lon="9.44051050031665" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200011z@ac-corse.fr"/>
+    <tag k="addr" v="rue de la 4e DDM"/>
+    <tag k="name" v="Section générale et technologique du lycée professionnel Fred Scamaroni"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.87794842456822" lon="8.981130471472511" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200045e@ac-corse.fr"/>
+    <tag k="addr" v="Quartier de la mairie"/>
+    <tag k="name" v="Collège Paul Bungelmi"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91071729808466" lon="8.712200339616382" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ce.6200636X@ac-corse.fr"/>
+    <tag k="addr" v="Route des Sanguinaires"/>
+    <tag k="name" v="Établissement régional d'enseignement adapté"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94880278114863" lon="8.759439931839335" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200650m@ac-corse.fr"/>
+    <tag k="addr" v="Château Bacciochi"/>
+    <tag k="name" v="Lycée Saint-Paul"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="42.54851667171837" lon="9.453889475289285" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200053v@ac-corse.fr"/>
+    <tag k="addr" v="Lucciana"/>
+    <tag k="name" v="Collège de Lucciana-Mariana"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91394509607658" lon="8.72649947548926" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-aja1@ac-corse.fr"/>
+    <tag k="addr" v="BOULEVARD PUGLIESI CONTI"/>
+    <tag k="name" v="Circonscription d'inspection du 1er degré d'Ajaccio I"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.62183841511146" lon="8.97471991625747" source="http://opendata.corsica/">
+    <tag k="isced:level" v="4"/>
+    <tag k="contact" v="ien-sart@ac-corse.fr"/>
+    <tag k="addr" v="SARTENE"/>
+    <tag k="name" v="Circonscription d'inspection du 1er degré de Sartène"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator"/>
+  </node>
+  <node changeset="116548336" lat="41.65122917202769" lon="8.981090310164555" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="legta.sartene@educagri.fr"/>
+    <tag k="addr" v="Route de Lévie"/>
+    <tag k="name" v="Campus Agri Corsica &quot;U Rizzanesi - Sarté&quot;"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.69274862442281" lon="9.452880513192556" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="lpma-bastia@developpement-durable.gouv.fr"/>
+    <tag k="addr" v="Batterie les Turquines"/>
+    <tag k="name" v="Lycée maritime et aquacole Jacques Faggianelli"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.303906621643165" lon="9.150969912818589" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200021k@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Président Pierucci"/>
+    <tag k="name" v="Lycée Pascal Paoli"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.94021886306521" lon="8.744269431577163" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200006m@ac-corse.fr"/>
+    <tag k="addr" v="Avenue du Maréchal Lyautey"/>
+    <tag k="name" v="Collège Arthur Giovoni"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.62981119457252" lon="8.932310332016577" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.7200025p@ac-corse.fr"/>
+    <tag k="addr" v="Route de Calvi"/>
+    <tag k="name" v="Collège Pascal Paoli"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="42.696916023981075" lon="9.444159860051451" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.7200073s@ac-corse.fr"/>
+    <tag k="addr" v="15 boulevard Benoite Danesi"/>
+    <tag k="name" v="Lycée Jeanne d'Arc"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Privé"/>
+  </node>
+  <node changeset="116548336" lat="41.4001284254356" lon="9.16289969569105" source="http://opendata.corsica/">
+    <tag k="isced:level" v="2"/>
+    <tag k="contact" v="ce.6200015x@ac-corse.fr"/>
+    <tag k="addr" v="Valle - Chemin de Bancarello"/>
+    <tag k="name" v="Collège de Bonifacio"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.91802608393372" lon="8.734150471326652" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200001g@ac-corse.fr"/>
+    <tag k="addr" v="5 cours Grandval"/>
+    <tag k="name" v="Lycée Fesch"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+  <node changeset="116548336" lat="41.93460316191891" lon="8.753373353372677" source="http://opendata.corsica/">
+    <tag k="isced:level" v="3"/>
+    <tag k="contact" v="ce.6200003j@ac-corse.fr"/>
+    <tag k="addr" v="Avenue Noël Franchini"/>
+    <tag k="name" v="Lycée professionnel Jules Antonini Lycée des métiers de la maintenance, du bâtiment et des transports"/>
+    <tag k="amenity" v="school"/>
+    <tag k="operator" v="Public"/>
+  </node>
+</osm>

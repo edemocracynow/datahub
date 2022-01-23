@@ -11,9 +11,33 @@ export class Commune {
 
   @Column()
   postal_code: string;
+  
+  @Column()
+  insee_com: string;
 
   @Column()
   nom_dept: string;
+  
+  @Column()
+  nom_region: string;
+  
+  @Column()
+  code_reg: string;
+  
+  @Column()
+  code_comm: string;
+
+  @Column()
+  code_dept: string;
+  
+  @Column()
+  statut: string;
+
+  @Column({type: 'numeric'})
+  population: string;
+
+  @Column({type: 'numeric'})
+  superficie: string;
 
   @Column({
     type: 'geometry',
