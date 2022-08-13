@@ -1,7 +1,8 @@
 const fs = require('fs');
 const { create } = require('xmlbuilder2');
-const axios = require('axios');
 var schools = require('/home/aureliano/git/datahub/docker/postgres/data/annuaire-de-leducation.json');
+
+const axios = require('axios');
 const api = 'https://api.openstreetmap.org/api/0.6'
 const api_dev = 'https://master.apis.dev.openstreetmap.org/api/0.6'
 const auth = {

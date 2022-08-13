@@ -7,7 +7,8 @@
 		"start:dev": "nest start --watch",
 		"start:prod": "node dist/main",
 		"encrypt": "ts-node --project tsconfig.json ./scripts/encrypt.ts",
-		"generate": "ts-node --project tsconfig.json ./scripts/generate-key.ts"
+		"generate": "ts-node --project tsconfig.json ./scripts/generate-key.ts",
+		"csv": "node scripts/read-csv.js"
 	},
 	"dependencies": {
 		"@nestjs/common": "^8.0.6",
@@ -20,6 +21,9 @@
 		"axios": "^0.25.0",
 		"class-transformer": "^0.4.0",
 		"class-validator": "^0.13.2",
+		"csv-parser": "^3.0.0",
+		"csv2geojson": "^5.1.1",
+		"geojson": "^0.5.0",
 		"openpgp": "4.10.10",
 		"osm-read": "^0.7.0",
 		"pg": "^8.7.1",
